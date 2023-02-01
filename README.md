@@ -1,3 +1,2 @@
 # Learning Github
-
-I am learning about the github repository.
+I am learning about the Github Repository!
